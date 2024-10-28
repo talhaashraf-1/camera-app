@@ -59,7 +59,6 @@ class Database:
         self.conn.close()
 import cv2
 from PIL import Image, ImageTk
-import tkinter as tk
 
 
 class Camera:
